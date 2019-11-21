@@ -6,8 +6,8 @@ pwd segir ther stadsetninguna sem thu ert ad vinna a.
 mkdir b'yr til directory.
 Hvað gera eftirfarandi Git skipanir?
 git clone - b'yr til annad eintak af repository a nyjan stad.
-git status
-git diff
+git status - gefur ther i ljos hvad er i gangi i git-inu 
+git diff  gefur i ljos nylegar breytingar a skjalinu.
 Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log
 git checkout
