@@ -10,8 +10,8 @@ git status - gefur ther i ljos hvad er i gangi i git-inu
 git diff  gefur i ljos nylegar breytingar a skjalinu.
 Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log  gefur ther i ljos hver hefur verid ad breyta til i skjalinu.
-git checkout
-git branch
+git checkout - segir hvort forritid se uppfaert
+git branch - 
 Hvað er útgáfustýring (Version Control)?
 Hverjir eru helstu kostir við að nota GIT?
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
