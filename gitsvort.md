@@ -16,3 +16,15 @@ Hvað er útgáfustýring (Version Control) - leyfir ther ad fylgjast med breyti
 Hverjir eru helstu kostir við að nota GIT? - 'utib'u eiginleikarthess og thad er 'odyrt og einfalt ad skapa thau.
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - eftir hvert comment.
 Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? -  thar sem utibuid fyrir verkefnid manns er geymt. staging area hj'alpar ther ad sja allt sem thu ert buinn ad vera ad vinna med.
+
+Skoðaðu allar færslurnar í skjalinu git log í Git Bash - ok
+Afritaðu (copy) talnarununa sem fylgir 5. svarinu (Fyrstu 7 tölurnar) -  0772e9ac 
+Skráðu síðan git checkout 1234567 (paste tölurnar 7)
+Búðu til nýja grein git branch [heiti greinar]
+Farðu yfir á greinina git checkout [heiti greinar] og bættu við eftirfarandi texta aftan við 5. svarið
+Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit
+Sendu nýju greinina yfir á GitHub
+Til að senda greinina yfir í geymsluna á GitHub þarf að skrá eftirfarandi kóða
+git push -u origin [heiti greinar]
+Farðu síðan aftur á master
+
