@@ -15,4 +15,4 @@ git branch - segir ther hvada branch thu ert ad vinna i. default branchid er mas
 Hvað er útgáfustýring (Version Control) - leyfir ther ad fylgjast med breytingum yfir tima.
 Hverjir eru helstu kostir við að nota GIT? - 'utib'u eiginleikarthess og thad er 'odyrt og einfalt ad skapa thau.
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - eftir hvert comment.
-Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? - 
+Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? -  thar sem utibuid fyrir verkefnid manns er geymt. staging area hj'alpar ther ad sja allt sem thu ert buinn ad vera ad vinna med.
